@@ -134,3 +134,7 @@ while (work)
 		end
 	end
 end
+
+
+#Here must be some coding of files. Also problem that all operation making in the client without server. And also there a big problem with 
+# smell of my code.
